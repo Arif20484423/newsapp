@@ -1,0 +1,13 @@
+{
+  "name": "newsapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "install-front": "cd frontend && npm install",
+    "build-front": "cd frontend && npm run build",
+    "start-front": "cd frontend && npm run start"
+  },
+  "author": "Arif",
+  "license": "ISC"
+}
